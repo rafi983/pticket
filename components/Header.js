@@ -1,20 +1,46 @@
 export default function Header() {
   return (
     <header className="flex items-center justify-between px-6 py-4 max-w-7xl mx-auto">
-      <div className="text-2xl font-bold text-black">P-Ticket</div>
+      <a href="/" className="text-2xl font-bold text-black">
+        P-Ticket
+      </a>
 
       <nav className="hidden md:flex items-center space-x-8">
-        <a href="#" className="text-gray-600 hover:text-black transition-colors">
+        <a
+          href="/"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
           Home
         </a>
-        <a href="#" className="text-gray-600 hover:text-black transition-colors">
+        <a
+          href="#"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
           About
         </a>
-        <a href="#" className="text-gray-600 hover:text-black transition-colors">
+        <a
+          href="#"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
           Destination
         </a>
-        <a href="#" className="text-gray-600 hover:text-black transition-colors">
+        <a
+          href="/search"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
           Search
+        </a>
+        <a
+          href="/checkout"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
+          Checkout
+        </a>
+        <a
+          href="/manage"
+          className="text-gray-600 hover:text-black transition-colors"
+        >
+          Manage
         </a>
       </nav>
 
@@ -25,6 +51,5 @@ export default function Header() {
         </svg>
       </button>
     </header>
-  )
+  );
 }
-
