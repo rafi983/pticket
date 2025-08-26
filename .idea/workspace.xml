@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2988903-6815-42fa-bc6f-235ccb5c8099" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/SeatButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/SeatButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/BookingForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/BookingForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/BusDetailsCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/BusDetailsCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HeroWithStats.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeroWithStats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SeatSelection.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SeatSelection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +49,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Users\\ACER\\Desktop\\pticket\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2025.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +88,7 @@
       <workItem from="1756136269273" duration="24000" />
       <workItem from="1756136314863" duration="73000" />
       <workItem from="1756213554092" duration="142000" />
-      <workItem from="1756213702111" duration="6256000" />
+      <workItem from="1756213702111" duration="6712000" />
     </task>
     <servers />
   </component>
